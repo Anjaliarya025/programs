@@ -1,0 +1,15 @@
+mkdir lab5
+$ cd lab5
+$ git remote -v
+$ git remote remove origin
+$ git remote add origin
+$ git remote add origin https://github. com/Sheema-khanum/rep
+$ git remote -v
+$ git fetch origin
+$ echo "1ab05" > lab. txt
+$ git add lab. txt
+$ git commit -m "Gitlab"
+$ git rebase origin/master
+$ git branch -M main
+$ git rebase origin/main
+$ git push origin main
