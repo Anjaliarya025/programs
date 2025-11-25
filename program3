@@ -1,0 +1,9 @@
+$ echo "lab" > file1.txt
+$ git add file1. txt
+$ git commit -m "Complete work"
+$ echo "lab" > file2. txt
+$ git add file2. txt
+$ git stash save "Incomplete Work"
+$ git stash list
+$ git stash show
+$ git stash pop
