@@ -1,0 +1,11 @@
+git config --global user.name 'aditya'
+git config--global user.email
+$ cd lab6
+$ git branch
+$ git switch -c new-branch
+$ echo "heyy" > file. txt
+$ git add file.txt
+$ git commit -m "experiment 6"
+$ git switch master
+$ git merge new-branch -m "Added a branch"
+$ git log
