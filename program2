@@ -1,0 +1,9 @@
+git init
+git branch feature1
+git switch feature1
+echo "data" > a.txt
+git add a.txt
+git commit -m "Added a.txt"
+git switch main
+git merge feature1
+git branch -d feature1
