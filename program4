@@ -1,0 +1,5 @@
+$ git config -- global user. name 'SheemaKhanum'
+$ git config -- global user. email 'SheemaKhanum76196@gmail.com'
+$ mkdir lab4
+$ cd lab4
+$ git clone https://github. com/SheemaKhanum/sheema. git
