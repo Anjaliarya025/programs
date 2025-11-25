@@ -1,0 +1,12 @@
+git config --global user.name "Your Name"
+git config --global user.email "your_email@example.com"
+
+mkdir project1
+cd project1
+git init
+
+echo "hello" > file.txt
+git add file.txt
+git commit -m "Added file"
+git status
+git log
